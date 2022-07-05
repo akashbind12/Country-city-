@@ -1,0 +1,36 @@
+{
+  "add-country": [
+    {
+      "id": 1,
+      "Country": "India"
+    },
+    {
+      "name": "India",
+      "id": 2
+    },
+    {
+      "name": "China",
+      "id": 3
+    }
+  ],
+  "add-city": [
+    {
+      "Country": "SriLanka",
+      "City": "Colombo",
+      "Population": "5600000",
+      "id": 3
+    },
+    {
+      "Country": "USA",
+      "City": "Chicago",
+      "Population": "2920000",
+      "id": 4
+    },
+    {
+      "Country": "India",
+      "City": "Delhi",
+      "Population": "19000000",
+      "id": 5
+    }
+  ]
+}
